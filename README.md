@@ -4,7 +4,7 @@ A lightweight, cross-platform system performance and health assistant built with
 
 SystemPulse monitors system resources, identifies processes consuming significant CPU and memory, tracks performance over time, and provides explainable recommendations to help users understand and manage their system.
 
-The project is designed to be lightweight, understandable, and practical rather than a replacement for tools such as `htop`, `btop`, or enterprise monitoring platforms.
+The project is designed to be lightweight, understandable, and practical rather than a replacement for tools such as `btop`, or enterprise monitoring platforms.
 
 > Monitor your system. Understand resource usage. Detect unusual activity. Take informed action.
 
