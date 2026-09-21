@@ -1,0 +1,12 @@
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/bin/Debug/net10.0/Cascade.Persistence.deps.json
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/bin/Debug/net10.0/Cascade.Persistence.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/bin/Debug/net10.0/Cascade.Persistence.pdb
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.AssemblyInfoInputs.cache
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.AssemblyInfo.cs
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.csproj.CoreCompileInputs.cache
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.sourcelink.json
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/refint/Cascade.Persistence.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/Cascade.Persistence.pdb
+/home/keletso/Documents/github/cascade/src/Cascade.Persistence/obj/Debug/net10.0/ref/Cascade.Persistence.dll

@@ -393,6 +393,16 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Cascade.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Cascade.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cascade.Core.dll": {}
+        }
       }
     }
   },
@@ -903,10 +913,16 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Cascade.Core/1.0.0": {
+      "type": "project",
+      "path": "../../src/Cascade.Core/Cascade.Core.csproj",
+      "msbuildProject": "../../src/Cascade.Core/Cascade.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "Cascade.Core >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -938,7 +954,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/keletso/Documents/github/cascade/src/Cascade.Core/Cascade.Core.csproj": {
+              "projectPath": "/home/keletso/Documents/github/cascade/src/Cascade.Core/Cascade.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

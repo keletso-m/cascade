@@ -1,0 +1,12 @@
+/home/keletso/Documents/github/cascade/src/Cascade.Core/bin/Debug/net10.0/Cascade.Core.deps.json
+/home/keletso/Documents/github/cascade/src/Cascade.Core/bin/Debug/net10.0/Cascade.Core.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Core/bin/Debug/net10.0/Cascade.Core.pdb
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.AssemblyInfoInputs.cache
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.AssemblyInfo.cs
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.csproj.CoreCompileInputs.cache
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.sourcelink.json
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/refint/Cascade.Core.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/Cascade.Core.pdb
+/home/keletso/Documents/github/cascade/src/Cascade.Core/obj/Debug/net10.0/ref/Cascade.Core.dll

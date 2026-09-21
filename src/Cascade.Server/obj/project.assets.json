@@ -1,11 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Cascade.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Cascade.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cascade.Core.dll": {}
+        }
+      },
+      "Cascade.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Cascade.Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cascade.Persistence.dll": {}
+        }
+      },
+      "Cascade.Replication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Cascade.Replication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cascade.Replication.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Cascade.Core/1.0.0": {
+      "type": "project",
+      "path": "../Cascade.Core/Cascade.Core.csproj",
+      "msbuildProject": "../Cascade.Core/Cascade.Core.csproj"
+    },
+    "Cascade.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Cascade.Persistence/Cascade.Persistence.csproj",
+      "msbuildProject": "../Cascade.Persistence/Cascade.Persistence.csproj"
+    },
+    "Cascade.Replication/1.0.0": {
+      "type": "project",
+      "path": "../Cascade.Replication/Cascade.Replication.csproj",
+      "msbuildProject": "../Cascade.Replication/Cascade.Replication.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Cascade.Core >= 1.0.0",
+      "Cascade.Persistence >= 1.0.0",
+      "Cascade.Replication >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/keletso/.nuget/packages/": {}
@@ -32,7 +83,17 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/keletso/Documents/github/cascade/src/Cascade.Core/Cascade.Core.csproj": {
+              "projectPath": "/home/keletso/Documents/github/cascade/src/Cascade.Core/Cascade.Core.csproj"
+            },
+            "/home/keletso/Documents/github/cascade/src/Cascade.Persistence/Cascade.Persistence.csproj": {
+              "projectPath": "/home/keletso/Documents/github/cascade/src/Cascade.Persistence/Cascade.Persistence.csproj"
+            },
+            "/home/keletso/Documents/github/cascade/src/Cascade.Replication/Cascade.Replication.csproj": {
+              "projectPath": "/home/keletso/Documents/github/cascade/src/Cascade.Replication/Cascade.Replication.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

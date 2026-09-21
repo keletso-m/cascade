@@ -1,0 +1,12 @@
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/bin/Debug/net10.0/Cascade.Replication.deps.json
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/bin/Debug/net10.0/Cascade.Replication.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/bin/Debug/net10.0/Cascade.Replication.pdb
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.GeneratedMSBuildEditorConfig.editorconfig
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.AssemblyInfoInputs.cache
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.AssemblyInfo.cs
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.csproj.CoreCompileInputs.cache
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.sourcelink.json
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/refint/Cascade.Replication.dll
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/Cascade.Replication.pdb
+/home/keletso/Documents/github/cascade/src/Cascade.Replication/obj/Debug/net10.0/ref/Cascade.Replication.dll

@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Cascade.Server/1.0.0": {
+        "dependencies": {
+          "Cascade.Core": "1.0.0",
+          "Cascade.Persistence": "1.0.0",
+          "Cascade.Replication": "1.0.0"
+        },
+        "runtime": {
+          "Cascade.Server.dll": {}
+        }
+      },
+      "Cascade.Core/1.0.0": {
+        "runtime": {
+          "Cascade.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cascade.Persistence/1.0.0": {
+        "runtime": {
+          "Cascade.Persistence.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Cascade.Replication/1.0.0": {
+        "runtime": {
+          "Cascade.Replication.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cascade.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cascade.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cascade.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cascade.Replication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
