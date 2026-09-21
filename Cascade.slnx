@@ -2,6 +2,9 @@
   <Folder Name="/src/">
     <Project Path="src/Cascade.Cli/Cascade.Cli.csproj" />
     <Project Path="src/Cascade.Core/Cascade.Core.csproj" />
+    <Project Path="src/Cascade.Persistence/Cascade.Persistence.csproj" />
+    <Project Path="src/Cascade.Replication/Cascade.Replication.csproj" />
+    <Project Path="src/Cascade.Server/Cascade.Server.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/Cascade.Core.Tests/Cascade.Core.Tests.csproj" />
