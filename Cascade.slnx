@@ -1,2 +1,11 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cascade.Cli/Cascade.Cli.csproj" />
+    <Project Path="src/Cascade.Core/Cascade.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Cascade.Core.Tests/Cascade.Core.Tests.csproj" />
+    <Project Path="tests/Cascade.Persistence.Tests/Cascade.Persistence.Tests.csproj" />
+    <Project Path="tests/Cascade.Replication.Tests/Cascade.Replication.Tests.csproj" />
+  </Folder>
 </Solution>
